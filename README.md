@@ -1,1 +1,1 @@
-# belly_button_challenge
+I was really lost on this homework and received extensive help from the tutor. I provided some baseline syntax frameworks for most of the parts, but the Tutor mostly walked me through scratch. I did do some of the bar chart on my own.
